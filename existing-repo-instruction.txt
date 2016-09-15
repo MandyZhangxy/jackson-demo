@@ -1,0 +1,11 @@
+"existing repo" 
+
+git clone https://github.com/MandyZhangxy/jackson-demo
+
+touch existing-repo-instruction.txt
+
+git add . 
+
+git commit -m "added instruction for existing repo" 
+
+git push origin master
