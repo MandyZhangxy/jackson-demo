@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/MandyZhangxy/group-presentation
+
+touch README.md
+
+git add README.md
+
+git commit -m "First file added"
+
+git push origin master
