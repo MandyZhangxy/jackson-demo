@@ -9,3 +9,6 @@ git add .
 git commit -m "added instruction for existing repo" 
 
 git push origin master
+
+go to another directory, then
+git pull origin master
